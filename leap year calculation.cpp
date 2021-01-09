@@ -9,7 +9,7 @@ which means that there will only be 97 leap years in 400 years.
 So that a year must be a multiple of 400 to be a leap year if it is a whole hundred;
 a century year that is not a multiple of 400 is not a leap year, 
 even if it is a multiple of 4.
-Translated with www.DeepL.com/Translator (free version)*/
+*/
 #include<iostream>
 #include<string>
 using namespace std;
